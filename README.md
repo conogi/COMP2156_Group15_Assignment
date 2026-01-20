@@ -10,9 +10,7 @@ COMP2156 Group Assignment for Group 15
 
 ## Assignment Details
 
-    1) Make a group of 4/6 members only. \
-No group of less than 3 or more than 4 people will be allowed. \
-After creating group start working on your group assignment. (02 Point)
+    1) Make a group of 4/6 members only. No group of less than 3 or more than 4 people will be allowed. After creating group start working on your group assignment. (02 Point)
 
     2) Create a public git repository name COMP2156_Group#_Assignment.
 Note that only one member (Leader/Owner) from your group will create a
