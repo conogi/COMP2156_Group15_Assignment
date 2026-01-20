@@ -34,7 +34,7 @@ Three file names for each group member will be in given below format:\
 **Studentid_gb.txt (20 Points)** - This file will contain information about George Brown college.\
 **Studentid_devops.txt (20 Points)** - This file will contain information about COMP 2156 DevOps course.\
 **Studentid_sdlc.txt (20 Points)** - This file will contain details about important of learning \
-DevOps engineer in software development cycle.\
+DevOps engineer in software development cycle.
 
 7) Update your local branch (PULL) from remote git repository after merging all branches from \
 all members and resolve any merge conflict whenever required. (10 Point)
