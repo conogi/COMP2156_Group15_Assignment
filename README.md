@@ -30,10 +30,10 @@ any free CI tools you prefer (05 Point)
 6) Each member in a group will make atleast 10 commits and create 3 files on their branch \
 having appropriate commit message and merge all branch changes to master branch. \
 NOTE: You will loss marks for less than 10 commits individual \
-Three file names for each group member will be in given below format:
-Studentid_gb.txt (20 Points) - This file will contain information about George Brown college.\
-Studentid_devops.txt (20 Points) - This file will contain information about COMP 2156 DevOps course.\
-Studentid_sdlc.txt (20 Points) - This file will contain details about important of learning \
+Three file names for each group member will be in given below format:\
+**Studentid_gb.txt (20 Points)** - This file will contain information about George Brown college.\
+**Studentid_devops.txt (20 Points)** - This file will contain information about COMP 2156 DevOps course.\
+**Studentid_sdlc.txt (20 Points)** - This file will contain details about important of learning \
 DevOps engineer in software development cycle.\
 
 7) Update your local branch (PULL) from remote git repository after merging all branches from \
