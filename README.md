@@ -52,12 +52,10 @@ Provide the GitHub group project link in assignment submission folder on black b
 
 Keep In mind
 
-- No commits or file changes/upload are allowed directly on GitHub website. \
-All commits must be done on local machine of each member should merge their branch to main/master branch\
-- You can create PR/Merge code on GitHub website\
-- Each member will award marks based on their contributions to the assignment after \
-verification on GitHub commits logs\
-- Late submission will be awarded ZERO\
+- No commits or file changes/upload are allowed directly on GitHub website. All commits must be done on local machine of each member should merge their branch to main/master branch
+- You can create PR/Merge code on GitHub website
+- Each member will award marks based on their contributions to the assignment after verification on GitHub commits logs
+- Late submission will be awarded ZERO
 
 ## Communication
 
