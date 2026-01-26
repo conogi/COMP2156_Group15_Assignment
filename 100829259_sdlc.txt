@@ -1,0 +1,2 @@
+DevOps is extremely important to the software development cycle. It is the integration of Software Development and IT Operations. This
+significantly increeases the speed of the development process, increases reliability and allows everybody to work more as a team. 
