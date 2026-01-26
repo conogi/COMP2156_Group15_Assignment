@@ -5,21 +5,21 @@ COMP2156 Group Assignment for Group 15
 * Leader: Connor Ogilvy 100829259 - [Github](https://github.com/conogi)
 * Member: Alex Bester - [Github](https://github.com/agbest)
 * Member: Matthew Driscoll 101572593- [Github](https://github.com/mrdrisk)
-* Member: Liam Menard - [Github](https://github.com/My-Good-Username)
+* Member: Liam Menard 101520366 - [Github](https://github.com/My-Good-Username)
 * Member: Emmanuel Nkrumah - [Github](https://github.com/ekan1996)
 
 ## Assignment Details
 
-1) Make a group of 4/6 members only. \
+~~1) Make a group of 4/6 members only. \
 No group of less than 3 or more than 4 people will be allowed. \
-After creating group start working on your group assignment. (02 Point)
+After creating group start working on your group assignment. (02 Point)~~ **Step Completed**
 
-2) Create a public git repository name COMP2156_Group#_Assignment.
+~~2) Create a public git repository name COMP2156_Group#_Assignment.
 Note that only one member (Leader/Owner) from your group will create a
-repository and other remaining member (as collaborators) will clone the repository on their local system. (02 Point)
+repository and other remaining member (as collaborators) will clone the repository on their local system. (02 Point)~~ **Step Completed**
 
-3) The leader/owner of the repository will add other group member as collaborator \
-and assign required permission to work on the repository. (05 Point)
+~~3) The leader/owner of the repository will add other group member as collaborator \
+and assign required permission to work on the repository. (05 Point)~~ **Step Completed**
 
 4) All members will create their own branch on git repo having \
 STUDENTID-Name as branch name. e.g. 1023756-Pritesh (02 Point)
@@ -44,19 +44,3 @@ Also, Put your group details (10 Point)
 
 9) Only ONE member will create Pull Request template using following link (04 Points) \
 https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository 
-
-
-## Submission
-
-Provide the GitHub group project link in assignment submission folder on black board on or before deadline. Also, upload screenshots in ONE single docx/pdf file showing your work form local computer and git commit list.
-
-Keep In mind
-
-- No commits or file changes/upload are allowed directly on GitHub website. All commits must be done on local machine of each member should merge their branch to main/master branch
-- You can create PR/Merge code on GitHub website
-- Each member will award marks based on their contributions to the assignment after verification on GitHub commits logs
-- Late submission will be awarded ZERO
-
-## Communication
-
-Please contact on pritesh.patel2@georgebrown.ca or SLACK channel for any question or query.
