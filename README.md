@@ -6,7 +6,7 @@ COMP2156 Group Assignment for Group 15
 * Member: Alex Bester - [Github](https://github.com/agbest)
 * Member: Matthew Driscoll 101572593- [Github](https://github.com/mrdrisk)
 * Member: Liam Menard 101520366 - [Github](https://github.com/My-Good-Username)
-* Member: Emmanuel Nkrumah - [Github](https://github.com/ekan1996)
+* Member: Emmanuel Nkrumah 101216207 - [Github](https://github.com/ekan1996)
 
 ## Assignment Details
 
