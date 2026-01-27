@@ -12,14 +12,14 @@ COMP2156 Group Assignment for Group 15
 
 ~~1) Make a group of 4/6 members only. \
 No group of less than 3 or more than 4 people will be allowed. \
-After creating group start working on your group assignment. (02 Point)~~ **Step Completed**[x]
+After creating group start working on your group assignment. (02 Point)~~ **Step Completed** U+2705
 
 ~~2) Create a public git repository name COMP2156_Group#_Assignment.
 Note that only one member (Leader/Owner) from your group will create a
-repository and other remaining member (as collaborators) will clone the repository on their local system. (02 Point)~~ **Step Completed**[x]
+repository and other remaining member (as collaborators) will clone the repository on their local system. (02 Point)~~ **Step Completed** U+2705
 
 ~~3) The leader/owner of the repository will add other group member as collaborator \
-and assign required permission to work on the repository. (05 Point)~~ **Step Completed**[x]
+and assign required permission to work on the repository. (05 Point)~~ **Step Completed** U+2705
 
 4) All members will create their own branch on git repo having \
 STUDENTID-Name as branch name. e.g. 1023756-Pritesh (02 Point)
