@@ -45,18 +45,3 @@ Also, Put your group details (10 Point)
 9) Only ONE member will create Pull Request template using following link (04 Points) \
 https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository 
 
-
-## Submission
-
-Provide the GitHub group project link in assignment submission folder on black board on or before deadline. Also, upload screenshots in ONE single docx/pdf file showing your work form local computer and git commit list.
-
-Keep In mind
-
-- No commits or file changes/upload are allowed directly on GitHub website. All commits must be done on local machine of each member should merge their branch to main/master branch
-- You can create PR/Merge code on GitHub website
-- Each member will award marks based on their contributions to the assignment after verification on GitHub commits logs
-- Late submission will be awarded ZERO
-
-## Communication
-
-Please contact on pritesh.patel2@georgebrown.ca or SLACK channel for any question or query.

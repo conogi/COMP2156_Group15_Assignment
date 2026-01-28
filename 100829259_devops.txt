@@ -7,5 +7,3 @@ We will also take a look at various operation implementations available and have
 toolkit. We will cover several different data formats and types including XML (Extensible Markup Language), JSON (JavaScript Object Notation), 
 YAML (Yet Another Markup Language), and YANG (Yet Another Next Generation). 
 
-We will also cover tools including Ansible and Git.
-
