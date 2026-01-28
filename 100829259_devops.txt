@@ -1,6 +1,9 @@
 DevOps For System Administration
 
 In this course, we will learn about procedures and best practices that a DevOps engineer brings to a workplace environment to increase 
-productivity. We will also take a look at various operation implementations available and have hands-on work using an industry standard 
+productivity. 
+
+We will also take a look at various operation implementations available and have hands-on work using an industry standard 
 toolkit. We will cover several different data formats and types including XML, JSON, YAML, and YANG. We will also cover tools including
 Ansible and Git.
+
