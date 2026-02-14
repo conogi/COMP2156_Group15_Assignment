@@ -1,0 +1,3 @@
+COMP2156 (DevOps for System Administration) focuses on the tools and practices used to manage change safely and consistently. Topics include Git workflows, branching strategies, collaboration in teams, and automation using CI tools like GitHub Actions.
+
+DevOps encourages frequent commits, clear commit messages, and repeatable processes that reduce human error. These skills help teams ship changes faster while maintaining stability.
