@@ -5,3 +5,5 @@ DevOps encourages frequent commits, clear commit messages, and repeatable proces
 This project is a group collaboration with five students from the program. All communications were handled over Discord.
 
 This file was complete on February 13, 2026.
+
+Written in my own words for COMP2156 Group Assignment 1.

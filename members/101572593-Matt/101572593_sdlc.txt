@@ -5,3 +5,5 @@ DevOps practices like CI pipelines, automation, and repeatable workflows help ca
 Automation and reliability benefits seen here.
 
 This file was completed on February 13, 2026.
+
+Written in my own words for COMP2156 Group Assignment 1.
