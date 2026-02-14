@@ -3,3 +3,5 @@ COMP2156 (DevOps for System Administration) focuses on the tools and practices u
 DevOps encourages frequent commits, clear commit messages, and repeatable processes that reduce human error. These skills help teams ship changes faster while maintaining stability.
 
 This project is a group collaboration with five students from the program. All communications were handled over Discord.
+
+This file was complete on February 13, 2026.
