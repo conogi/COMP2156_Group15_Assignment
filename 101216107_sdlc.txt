@@ -1,0 +1,2 @@
+Software Development Life Cycle (SDLC), which is the core of every software development process, is a planned approach to software development, from gathering requirements to the final deployment of the software.
+The SDLC process varies according to the needs of the business using models like the Waterfall Model, Agile Model, Iterative Model, Spiral Model, and V-shaped Model, which have their own approach.
