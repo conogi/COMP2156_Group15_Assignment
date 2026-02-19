@@ -1,4 +1,5 @@
 In this DevOps For Administration course, you will be learning about DevOps engineering and using tools like GitHub, Gitbash, Azure and AWS.
 These tools help to teach students on the processes of software development, such as coding, testing, deployment and operations.
 This course includes topics like continuous integration (CI), continuous delivery (CD), cloud computing, and containerization with the help of tools such as Jenkins, Docker, and Kubernetes.
-Students are able to automate their workflows and deploy applications in an efficient manner and the skills that can be acquired in this course will help enhance the efficiency of deployment
+Students are able to automate their workflows and deploy applications in an efficient manner and the skills that can be acquired in this course will help enhance the efficiency of deployment.
+By learning by labs and projects will allow you to apply workflow automation, improve collaboration for developers and after studies, hopeully work with an operation team to enhance the reliability, scalability, and security of software applications.
