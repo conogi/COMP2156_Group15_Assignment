@@ -1,0 +1,1 @@
+Devops for System Administration is a class offered George Brown Polytechnic focusing on the software development life cycle and tools for software developers such as git. It is offered in the Computer Systems Technician program as well as other programs in the IT field at the college.
