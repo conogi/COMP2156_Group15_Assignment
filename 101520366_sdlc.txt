@@ -1,1 +1,1 @@
-Learning DevOps is vital for accelerating the software development lifecycle.
+Learning DevOps is vital for accelerating the software development lifecycle (SDLC).
