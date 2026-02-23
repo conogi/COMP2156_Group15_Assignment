@@ -21,25 +21,25 @@ repository and other remaining member (as collaborators) will clone the reposito
 - [x] **Step Completed**  ~~3) The leader/owner of the repository will add other group member as collaborator \
 and assign required permission to work on the repository. (05 Point)~~
 
-- [x] 4) All members will create their own branch on git repo having \
-STUDENTID-Name as branch name. e.g. 1023756-Pritesh (02 Point) 
+- [x] 4) **Step Completed**   ~~All members will create their own branch on git repo having \
+STUDENTID-Name as branch name. e.g. 1023756-Pritesh (02 Point)~~ 
 
-- [x] 5) Only one member will integrate your repository to GitHub Actions or \
-any free CI tools you prefer (05 Point)
+- [x] 5) **Step Completed**   ~~Only one member will integrate your repository to GitHub Actions or \
+any free CI tools you prefer (05 Point)~~
 
-- [x] 6) Each member in a group will make atleast 10 commits and create 3 files on their branch \
+- [x] 6) **Step Completed**   ~~Each member in a group will make atleast 10 commits and create 3 files on their branch \
 having appropriate commit message and merge all branch changes to master branch. \
 NOTE: You will loss marks for less than 10 commits individual \
 Three file names for each group member will be in given below format:\
 **Studentid_gb.txt (20 Points)** - This file will contain information about George Brown college.\
 **Studentid_devops.txt (20 Points)** - This file will contain information about COMP 2156 DevOps course.\
 **Studentid_sdlc.txt (20 Points)** - This file will contain details about important of learning \
-DevOps engineer in software development cycle.
+DevOps engineer in software development cycle.~~
 
-- [x] 7) Update your local branch (PULL) from remote git repository after merging all branches from \
-all members and resolve any merge conflict whenever required. (10 Point)
+- [x] 7) **Step Completed**   ~~Update your local branch (PULL) from remote git repository after merging all branches from \
+all members and resolve any merge conflict whenever required. (10 Point)~~
 
-- [x] 8) Group members should add and update Readme.md file to maintain their repository details. \
-Also, Put your group details (10 Point)
+- [x] 8) **Step Completed**   ~~Group members should add and update Readme.md file to maintain their repository details. \
+Also, Put your group details (10 Point)~~
 
-- [x] 9) Only ONE member will create Pull Request template using following link (04 Points) \
+- [x] 9) **Step Completed**   ~~Only ONE member will create Pull Request template using following link (04 Points)~~
